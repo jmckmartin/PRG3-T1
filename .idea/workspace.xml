@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d3f6733-612f-4b64-94c7-00d05c5b9fc4" name="Default Changelist" comment="Re-Structured Code to Seperate Tutorials from Previous Single Repository">
+      <change afterPath="$PROJECT_DIR$/.idea/PRG3-T1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/build/classes/java/main/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Calculator">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/HelloWorld">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kcISkRkADcUiSf3cDCIWuiTIYx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d3f6733-612f-4b64-94c7-00d05c5b9fc4" name="Default Changelist" comment="" />
+      <created>1605993454321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605993454321</updated>
+      <workItem from="1605993455388" duration="221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Re-Structured Code to Seperate Tutorials from Previous Single Repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-Structured Code to Seperate Tutorials from Previous Single Repository" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="46" key="CommitChangelistDialog2" timestamp="1605993624205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="282" y="46" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605993624205" />
+  </component>
+</project>
